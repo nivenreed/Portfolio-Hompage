@@ -1,0 +1,42 @@
+body{
+    border-style: solid;
+    border-color:white;
+    background-color: lightcyan; 
+    font-family: 'Gemunu Libre', sans-serif;
+    padding-left: 30px;
+    
+}
+
+h1, h2 {
+
+    color:blueviolet;
+    font-family: 'Gemunu Libre', sans-serif;
+
+}
+nav ul{
+    margin: o;
+    padding: 0;
+    list-style: none;
+}
+
+nav li{
+    display: inline-block;
+    margin-left: 70px;
+}
+
+nav a{
+    color: blueviolet;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+nav a:hover{
+    
+    transform: scale(1.1);
+    color: white;
+}
+
+p{
+    font-stretch: extra-expanded;
+    font-size: 18px;
+}
